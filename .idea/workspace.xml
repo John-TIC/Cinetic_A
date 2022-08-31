@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2940c0f9-4678-4c7b-89dc-8237a301a7ca" name="Changes" comment="" />
+    <list default="true" id="2940c0f9-4678-4c7b-89dc-8237a301a7ca" name="Changes" comment="Estructura del Proyecto y primera versión de models.py">
+      <change afterPath="$PROJECT_DIR$/cinetic_app1/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinetic_A/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cinetic_A/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +16,13 @@
   </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,7 +90,17 @@
       <workItem from="1661960738330" duration="1172000" />
       <workItem from="1661962163892" duration="1593000" />
       <workItem from="1661964764908" duration="158000" />
+      <workItem from="1661973727471" duration="4102000" />
+      <workItem from="1661978031779" duration="398000" />
     </task>
+    <task id="LOCAL-00001" summary="Estructura del Proyecto y primera versión de models.py">
+      <created>1661974003713</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661974003713</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,5 +116,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Estructura del Proyecto y primera versión de models.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Estructura del Proyecto y primera versión de models.py" />
   </component>
 </project>
